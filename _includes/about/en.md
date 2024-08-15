@@ -1,16 +1,14 @@
-Hey, I'm Zheng Gong, a fourth year PhD candidate in the Department of Mechanical and Aerospace Engineering, Jacob's School of Engineering, Univerity of California, San Diego. My Advisor is [Dr. Sylvia Herbert](https://sylviaherbert.com/). 
+Hey, I'm Zheng Gong, a PhD <del>student</del>candidate in the Department of Mechanical and Aerospace Engineering, Jacob's School of Engineering, Univerity of California, San Diego (UCSD). My Advisor is [Dr. Sylvia Herbert](https://sylviaherbert.com/). 
 
-#Hey, I am Huang, Xuan (a.k.a. _@huxpro_). I worked on the [React Team](https://beta.reactjs.org/community/meet-the-team#react-core) at <del>Facebook</del>Meta.
+My reaserch lies on the optimal control, Hamilton Jacobi reachability analysis and their application to safety-critical systems. More specifically, I proposed the to construct control Lyaounov-Value functions (CLVF) from HJR, and tried system decomposition methods to increase the computation efficiency. Also, I developed a robot navigation framework that uses the CLVF and is able to reject 'unexpected disturbances.' I also have a broad interests in the reinforcement learning and robotics. 
 
-#I considered myself as a hybrid between a software engineer specifically into the programming languages theories and implementations domain (i.e. compiler, type system, type-based formal verification, virtual machine, runtime systems, garbage collection), and a creative technologiest deeply caring about many humanistic aspects (e.g. visual, sound, interaction) in UI and HCI in general.
+Before joining UCSD, I received my master’s degree from Duke University, May 2021, where I worked on stability for linear time invariant systems with time delays.
 
-#I also worked on the [Hermes JavaScript Engine](https://hermesengine.dev/), some other projects under the [Reality Labs (Research)](https://tech.fb.com/ar-vr/), and [ReasonML](https://reasonml.github.io/) (now [ReScript](https://rescript-lang.org/)) efforts at Meta (Facebook).
+In my free time, I enjoy playing NBA2K, RDR2, and CIV's. 
 
-#In the past, I worked on [Alitrip (Fliggy)](https://www.alitrip.com/) mobile and web apps under the [Alibaba Group](https://en.wikipedia.org/wiki/Alibaba_Group), found and lead front-end infrastructure team at an unicorn startup company [Beijing Weiying (a.k.a. WePiao, now acquired by Maoyan)](https://www.crunchbase.com/organization/beijing-weiying-technology), and helped [Ele.me (now acquired by Alibaba)](https://en.wikipedia.org/wiki/Ele.me) to upgrade their mobile web site into [the first influential PWA (progressive web app) in China](https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509).
 
-#I studied BA, Digital Media Art at [Communication University of China](https://en.wikipedia.org/wiki/Communication_University_of_China) and MS, Computer Science (with a focus on programming languages, mainly supervised by [Prof. Matthew Fluet](https://www.cs.rit.edu/~mtf/)) at [Rochester Institute of Technology](https://en.wikipedia.org/wiki/Rochester_Institute_of_Technology).
 
-##### Appearence
+##### Publication
 
 - [React Labs: What We've Been Working On – June 2022][12] · React Blog · 2022
 - [React Without Memo][11] · [React Conf 2021](https://conf.reactjs.org/)
