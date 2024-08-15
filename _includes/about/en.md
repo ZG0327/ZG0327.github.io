@@ -1,4 +1,4 @@
-Hey, I'm Zheng Gong, a PhD <del>student</del>candidate in the Department of Mechanical and Aerospace Engineering, Jacob's School of Engineering, Univerity of California, San Diego (UCSD). My Advisor is [Dr. Sylvia Herbert](https://sylviaherbert.com/). 
+Hey, I'm Zheng Gong, a PhD <del>student</del> candidate in the Department of Mechanical and Aerospace Engineering, Jacob's School of Engineering, Univerity of California, San Diego (UCSD). My Advisor is [Dr. Sylvia Herbert](https://sylviaherbert.com/). 
 
 My reaserch lies on the optimal control, Hamilton Jacobi reachability analysis and their application to safety-critical systems. More specifically, I proposed the to construct control Lyaounov-Value functions (CLVF) from HJR, and tried system decomposition methods to increase the computation efficiency. Also, I developed a robot navigation framework that uses the CLVF and is able to reject 'unexpected disturbances.' I also have a broad interests in the reinforcement learning and robotics. 
 
